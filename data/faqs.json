@@ -1,0 +1,896 @@
+[
+ {
+  "id": "s0",
+  "category": "General",
+  "question": "Hello",
+  "answer": "Hello! 👋 I'm FAQBot. Ask me about technology, science, health, money, careers, travel, studies and more."
+ },
+ {
+  "id": "s1",
+  "category": "General",
+  "question": "Thank you",
+  "answer": "You're welcome! 😊 Ask me anything else whenever you like."
+ },
+ {
+  "id": "s2",
+  "category": "General",
+  "question": "What can you do?",
+  "answer": "I answer questions across many domains: tech, programming, science, math, health, finance, career, travel, education, productivity and everyday life."
+ },
+ {
+  "id": "s3",
+  "category": "Technology",
+  "question": "What is cloud computing?",
+  "answer": "Cloud computing delivers servers, storage, databases and software over the internet on a pay-as-you-go basis, so you don't need to own physical hardware."
+ },
+ {
+  "id": "s4",
+  "category": "Technology",
+  "question": "What is the difference between RAM and storage?",
+  "answer": "RAM is fast, temporary memory for running programs. Storage (SSD/HDD) keeps your files permanently, even when the device is off."
+ },
+ {
+  "id": "s5",
+  "category": "Technology",
+  "question": "How do I keep my accounts secure online?",
+  "answer": "Use unique strong passwords with a password manager, turn on two-factor authentication, avoid suspicious links, and keep your software updated."
+ },
+ {
+  "id": "s6",
+  "category": "Technology",
+  "question": "What is an API?",
+  "answer": "An API (Application Programming Interface) is a set of rules that lets one piece of software talk to another, like a waiter carrying orders between you and the kitchen."
+ },
+ {
+  "id": "s7",
+  "category": "Technology",
+  "question": "What is the full form of LMS?",
+  "answer": "LMS stands for Learning Management System, software used to deliver courses, assignments, grades and announcements online."
+ },
+ {
+  "id": "s8",
+  "category": "Technology",
+  "question": "How do I speed up a slow computer?",
+  "answer": "Restart it, close heavy apps, remove unused startup programs, free disk space, update the OS, scan for malware, and consider an SSD or more RAM."
+ },
+ {
+  "id": "s9",
+  "category": "Programming",
+  "question": "What is OOP?",
+  "answer": "Object-Oriented Programming organizes code into objects that bundle data and behavior. Its four pillars are encapsulation, abstraction, inheritance and polymorphism."
+ },
+ {
+  "id": "s10",
+  "category": "Programming",
+  "question": "What is the difference between Git and GitHub?",
+  "answer": "Git is a version-control tool that tracks code changes on your computer. GitHub is an online platform that hosts Git repositories for sharing and collaboration."
+ },
+ {
+  "id": "s11",
+  "category": "Programming",
+  "question": "What is an algorithm?",
+  "answer": "An algorithm is a step-by-step procedure for solving a problem or completing a task, such as sorting a list or searching for a value."
+ },
+ {
+  "id": "s12",
+  "category": "Programming",
+  "question": "Which programming language should I learn first?",
+  "answer": "Python is a great first choice for its readable syntax. Choose JavaScript for web development, Java/Kotlin for Android, or Swift for iOS."
+ },
+ {
+  "id": "s13",
+  "category": "Programming",
+  "question": "What is a database?",
+  "answer": "A database is an organized collection of data that can be stored, queried and updated. Examples: MySQL and PostgreSQL (SQL), MongoDB and Firebase (NoSQL)."
+ },
+ {
+  "id": "s14",
+  "category": "Programming",
+  "question": "What is the difference between frontend and backend?",
+  "answer": "Frontend is what users see and interact with (HTML, CSS, JavaScript). Backend is the server-side logic, databases and APIs behind the scenes."
+ },
+ {
+  "id": "s15",
+  "category": "AI",
+  "question": "What is artificial intelligence?",
+  "answer": "Artificial intelligence is the field of building machines that perform tasks needing human-like intelligence, such as understanding language, recognizing images and making decisions."
+ },
+ {
+  "id": "s16",
+  "category": "AI",
+  "question": "What is machine learning?",
+  "answer": "Machine learning is a branch of AI where systems learn patterns from data to make predictions instead of following hand-written rules."
+ },
+ {
+  "id": "s17",
+  "category": "AI",
+  "question": "What is NLP?",
+  "answer": "Natural Language Processing helps computers understand, interpret and generate human language, powering chatbots, translation and search."
+ },
+ {
+  "id": "s18",
+  "category": "Science",
+  "question": "What is photosynthesis?",
+  "answer": "Photosynthesis is how plants use sunlight, water and carbon dioxide to make glucose and release oxygen."
+ },
+ {
+  "id": "s19",
+  "category": "Science",
+  "question": "Why is the sky blue?",
+  "answer": "Air molecules scatter short blue wavelengths of sunlight more than longer red ones (Rayleigh scattering), so the sky looks blue."
+ },
+ {
+  "id": "s20",
+  "category": "Science",
+  "question": "What is gravity?",
+  "answer": "Gravity is the force by which objects with mass attract each other. On Earth it pulls things toward the ground at about 9.8 m/s²."
+ },
+ {
+  "id": "s21",
+  "category": "Science",
+  "question": "What causes climate change?",
+  "answer": "Mainly greenhouse gases from burning fossil fuels, deforestation and industry trap heat in the atmosphere and raise global temperatures."
+ },
+ {
+  "id": "s22",
+  "category": "Math",
+  "question": "What is the Pythagorean theorem?",
+  "answer": "In a right triangle, a² + b² = c², where c is the hypotenuse (the side opposite the right angle)."
+ },
+ {
+  "id": "s23",
+  "category": "Math",
+  "question": "How do I calculate percentage?",
+  "answer": "Percentage = (part ÷ whole) × 100. For example, 20 out of 50 is (20 ÷ 50) × 100 = 40%."
+ },
+ {
+  "id": "s24",
+  "category": "Health",
+  "question": "How much water should I drink daily?",
+  "answer": "Most adults need roughly 2–3 litres a day, depending on climate, activity and body size. Pale yellow urine is a good sign of hydration."
+ },
+ {
+  "id": "s25",
+  "category": "Health",
+  "question": "How many hours of sleep do I need?",
+  "answer": "Adults generally need 7–9 hours, teenagers 8–10 hours. Keep a regular schedule and limit screens before bed."
+ },
+ {
+  "id": "s26",
+  "category": "Health",
+  "question": "How can I reduce stress?",
+  "answer": "Try regular exercise, deep breathing, enough sleep, short breaks, time outdoors and talking to someone you trust. See a professional if stress persists."
+ },
+ {
+  "id": "s27",
+  "category": "Health",
+  "question": "What is a balanced diet?",
+  "answer": "A balanced diet includes vegetables, fruits, whole grains, protein, healthy fats and enough water, while limiting sugar, salt and ultra-processed foods."
+ },
+ {
+  "id": "s28",
+  "category": "Finance",
+  "question": "How do I create a budget?",
+  "answer": "List your income, track your expenses, set limits per category, and save first. A simple guide is 50% needs, 30% wants, 20% savings."
+ },
+ {
+  "id": "s29",
+  "category": "Finance",
+  "question": "What is a credit score?",
+  "answer": "A credit score is a number reflecting how reliably you repay debt. Pay bills on time and keep credit usage low to improve it."
+ },
+ {
+  "id": "s30",
+  "category": "Finance",
+  "question": "What is the difference between saving and investing?",
+  "answer": "Saving keeps money safe and accessible for short-term needs. Investing puts money into assets like stocks or funds for long-term growth, with some risk."
+ },
+ {
+  "id": "s31",
+  "category": "Finance",
+  "question": "What is inflation?",
+  "answer": "Inflation is the general rise in prices over time, which reduces what your money can buy."
+ },
+ {
+  "id": "s32",
+  "category": "Career",
+  "question": "How do I write a good resume?",
+  "answer": "Keep it to one or two pages, lead with a short summary, show achievements with numbers, tailor it to each job, and proofread carefully."
+ },
+ {
+  "id": "s33",
+  "category": "Career",
+  "question": "How do I prepare for an interview?",
+  "answer": "Research the company, practise common questions with the STAR method, prepare examples and questions to ask, and arrive early."
+ },
+ {
+  "id": "s34",
+  "category": "Career",
+  "question": "How can I find an internship?",
+  "answer": "Use job portals, LinkedIn, your college placement cell and networking. Build a small portfolio and apply early with a tailored resume."
+ },
+ {
+  "id": "s35",
+  "category": "Career",
+  "question": "How do I improve my communication skills?",
+  "answer": "Practise active listening, speak clearly and concisely, read widely, seek feedback, and join discussions or presentations regularly."
+ },
+ {
+  "id": "s36",
+  "category": "Education",
+  "question": "How can I study more effectively?",
+  "answer": "Use active recall, spaced repetition and the Pomodoro technique. Teach concepts aloud, practise past questions and sleep well before exams."
+ },
+ {
+  "id": "s37",
+  "category": "Education",
+  "question": "What is the minimum attendance required?",
+  "answer": "Many institutions require about 75% attendance, but rules differ. Check your institution's official policy."
+ },
+ {
+  "id": "s38",
+  "category": "Education",
+  "question": "How do I reset my LMS or portal password?",
+  "answer": "Use the Forgot Password option on the login page and follow the verification steps. Contact IT support if it fails."
+ },
+ {
+  "id": "s39",
+  "category": "Education",
+  "question": "How do I submit an assignment online?",
+  "answer": "Open the Assignments section, pick the assignment, upload your file and press Submit before the deadline."
+ },
+ {
+  "id": "s40",
+  "category": "Education",
+  "question": "Where can I check my exam results?",
+  "answer": "Open the Results or Grades section of your institution's portal once results are published."
+ },
+ {
+  "id": "s41",
+  "category": "Travel",
+  "question": "How do I plan a trip on a budget?",
+  "answer": "Travel off-season, book transport early, compare stays, use public transport, eat local and set a daily spending limit."
+ },
+ {
+  "id": "s42",
+  "category": "Travel",
+  "question": "What should I pack for travel?",
+  "answer": "Carry ID and documents, chargers, medicines, versatile clothes, a power bank and a small first-aid kit. Pack light."
+ },
+ {
+  "id": "s43",
+  "category": "Travel",
+  "question": "How do I stay safe while travelling?",
+  "answer": "Share your itinerary, keep copies of documents, avoid displaying valuables, use trusted transport and have emergency contacts handy."
+ },
+ {
+  "id": "s44",
+  "category": "Productivity",
+  "question": "How do I manage my time better?",
+  "answer": "Prioritise tasks (Eisenhower matrix), plan your day, block focused time, limit distractions and review your progress weekly."
+ },
+ {
+  "id": "s45",
+  "category": "Productivity",
+  "question": "How do I stop procrastinating?",
+  "answer": "Break tasks into tiny steps, start for just five minutes, remove distractions, set deadlines and reward progress."
+ },
+ {
+  "id": "s46",
+  "category": "Productivity",
+  "question": "How can I build a good habit?",
+  "answer": "Start small, attach it to an existing routine, track it daily and be consistent. Habits take weeks, not days, to stick."
+ },
+ {
+  "id": "s47",
+  "category": "Lifestyle",
+  "question": "How do I cook rice perfectly?",
+  "answer": "Rinse the rice, use about 1 part rice to 2 parts water, bring to a boil, then simmer covered on low for 15–18 minutes and rest for 5."
+ },
+ {
+  "id": "s48",
+  "category": "Lifestyle",
+  "question": "How can I save electricity at home?",
+  "answer": "Switch to LED bulbs, unplug idle devices, use efficient appliances, set the AC to around 24–26 °C and use natural light."
+ },
+ {
+  "id": "s49",
+  "category": "Lifestyle",
+  "question": "How do I start exercising as a beginner?",
+  "answer": "Begin with 20–30 minutes of walking or light workouts three times a week, warm up, increase gradually and rest well."
+ },
+ {
+  "id": "s50",
+  "category": "Environment",
+  "question": "How can I reduce plastic waste?",
+  "answer": "Carry reusable bags and bottles, avoid single-use items, buy in bulk, recycle properly and choose products with less packaging."
+ },
+ {
+  "id": "s51",
+  "category": "Law & Civic",
+  "question": "What should I do if I lose my ID or important document?",
+  "answer": "Report the loss to the issuing authority, file a police report if required, and apply for a duplicate with the needed forms."
+ },
+ {
+  "id": "s52",
+  "category": "Support",
+  "question": "How can I get technical support?",
+  "answer": "Use the Help or Support page of the service, contact the official help desk, and share screenshots and error messages for faster help."
+ },
+ {
+  "id": "s53",
+  "category": "Technology",
+  "question": "What is the difference between HTTP and HTTPS?",
+  "answer": "HTTPS is HTTP with encryption (TLS), so data between your browser and the website can't easily be read or altered. Look for the padlock icon."
+ },
+ {
+  "id": "s54",
+  "category": "Technology",
+  "question": "What is blockchain?",
+  "answer": "Blockchain is a shared, tamper-resistant digital ledger where records (blocks) are linked and verified by many computers instead of one central authority."
+ },
+ {
+  "id": "s55",
+  "category": "Technology",
+  "question": "What is the Internet of Things?",
+  "answer": "IoT is a network of everyday devices, such as smart bulbs, watches and sensors, that connect to the internet and share data."
+ },
+ {
+  "id": "s56",
+  "category": "Technology",
+  "question": "What is 5G?",
+  "answer": "5G is the fifth generation of mobile networks, offering much faster speeds, lower delay and support for more connected devices than 4G."
+ },
+ {
+  "id": "s57",
+  "category": "Technology",
+  "question": "What is phishing and how do I avoid it?",
+  "answer": "Phishing is a scam using fake emails, messages or sites to steal your details. Don't click unknown links, check the sender, and never share OTPs or passwords."
+ },
+ {
+  "id": "s58",
+  "category": "Technology",
+  "question": "What is a VPN?",
+  "answer": "A VPN encrypts your internet traffic and routes it through another server, hiding your IP address and protecting you on public Wi-Fi."
+ },
+ {
+  "id": "s59",
+  "category": "Technology",
+  "question": "How do I back up my data?",
+  "answer": "Follow the 3-2-1 rule: keep 3 copies, on 2 different types of storage, with 1 copy off-site or in the cloud."
+ },
+ {
+  "id": "s60",
+  "category": "Technology",
+  "question": "What is the difference between Wi-Fi and mobile data?",
+  "answer": "Wi-Fi connects you to a local router and its broadband line, while mobile data uses your carrier's cellular network and is usually metered."
+ },
+ {
+  "id": "s61",
+  "category": "Programming",
+  "question": "What is the difference between SQL and NoSQL?",
+  "answer": "SQL databases store data in structured tables with fixed schemas. NoSQL databases use flexible formats like documents or key-value pairs and scale easily."
+ },
+ {
+  "id": "s62",
+  "category": "Programming",
+  "question": "What is a variable?",
+  "answer": "A variable is a named container in a program that stores a value, such as a number or text, which can change while the program runs."
+ },
+ {
+  "id": "s63",
+  "category": "Programming",
+  "question": "What is recursion?",
+  "answer": "Recursion is when a function calls itself to solve smaller versions of a problem until it reaches a base case that stops it."
+ },
+ {
+  "id": "s64",
+  "category": "Programming",
+  "question": "What is the difference between a compiler and an interpreter?",
+  "answer": "A compiler translates the whole program into machine code before running. An interpreter translates and runs it line by line."
+ },
+ {
+  "id": "s65",
+  "category": "Programming",
+  "question": "What is debugging?",
+  "answer": "Debugging is finding and fixing errors in code. Read the error message, reproduce the bug, isolate the cause, fix it and test again."
+ },
+ {
+  "id": "s66",
+  "category": "Programming",
+  "question": "What is a REST API?",
+  "answer": "A REST API lets clients talk to a server over HTTP using methods like GET, POST, PUT and DELETE, usually exchanging JSON data."
+ },
+ {
+  "id": "s67",
+  "category": "Programming",
+  "question": "What is data structure?",
+  "answer": "A data structure organizes data for efficient use. Common ones are arrays, linked lists, stacks, queues, trees, graphs and hash tables."
+ },
+ {
+  "id": "s68",
+  "category": "Programming",
+  "question": "What are HTML, CSS and JavaScript?",
+  "answer": "HTML builds a web page's structure, CSS styles it, and JavaScript makes it interactive."
+ },
+ {
+  "id": "s69",
+  "category": "Programming",
+  "question": "How do I learn coding effectively?",
+  "answer": "Pick one language, build small projects, read other people's code, practise daily on problems, and don't just watch tutorials."
+ },
+ {
+  "id": "s70",
+  "category": "AI",
+  "question": "What is deep learning?",
+  "answer": "Deep learning is machine learning using multi-layered neural networks, behind image recognition, speech assistants and modern chatbots."
+ },
+ {
+  "id": "s71",
+  "category": "AI",
+  "question": "What is a large language model?",
+  "answer": "An LLM is an AI trained on huge amounts of text to understand and generate human-like language, for example Gemini or Claude."
+ },
+ {
+  "id": "s72",
+  "category": "AI",
+  "question": "What is a neural network?",
+  "answer": "A neural network is a model loosely inspired by the brain, made of connected layers of nodes that learn patterns from data."
+ },
+ {
+  "id": "s73",
+  "category": "AI",
+  "question": "What is TF-IDF?",
+  "answer": "TF-IDF scores how important a word is to a document: frequent in that document but rare across others. It's widely used in search and text matching."
+ },
+ {
+  "id": "s74",
+  "category": "Science",
+  "question": "What is the speed of light?",
+  "answer": "Light travels at about 299,792 km per second (roughly 3 × 10⁸ m/s) in a vacuum."
+ },
+ {
+  "id": "s75",
+  "category": "Science",
+  "question": "What are the states of matter?",
+  "answer": "The main states are solid, liquid, gas and plasma. Changing temperature or pressure can turn one into another."
+ },
+ {
+  "id": "s76",
+  "category": "Science",
+  "question": "What is DNA?",
+  "answer": "DNA is the molecule that carries genetic instructions for living organisms, shaped like a double helix."
+ },
+ {
+  "id": "s77",
+  "category": "Science",
+  "question": "What is the water cycle?",
+  "answer": "Water evaporates, condenses into clouds, falls as rain or snow, and flows back into rivers, seas and the ground, repeating continuously."
+ },
+ {
+  "id": "s78",
+  "category": "Science",
+  "question": "What is an atom?",
+  "answer": "An atom is the basic unit of matter, made of a nucleus (protons and neutrons) surrounded by electrons."
+ },
+ {
+  "id": "s79",
+  "category": "Science",
+  "question": "What causes earthquakes?",
+  "answer": "Earthquakes happen when tectonic plates under the Earth's surface suddenly slip and release energy as seismic waves."
+ },
+ {
+  "id": "s80",
+  "category": "Science",
+  "question": "What is the difference between weather and climate?",
+  "answer": "Weather is short-term atmospheric conditions, while climate is the average weather of a region over many years."
+ },
+ {
+  "id": "s81",
+  "category": "Math",
+  "question": "What is the difference between mean, median and mode?",
+  "answer": "Mean is the average, median is the middle value when sorted, and mode is the most frequent value."
+ },
+ {
+  "id": "s82",
+  "category": "Math",
+  "question": "What is a prime number?",
+  "answer": "A prime number is greater than 1 and divisible only by 1 and itself, like 2, 3, 5, 7 and 11."
+ },
+ {
+  "id": "s83",
+  "category": "Math",
+  "question": "How do I calculate simple interest?",
+  "answer": "Simple interest = (Principal × Rate × Time) ÷ 100. For example, ₹1,000 at 5% for 2 years gives ₹100."
+ },
+ {
+  "id": "s84",
+  "category": "Math",
+  "question": "What is the area of a circle?",
+  "answer": "Area = π × r², where r is the radius. For r = 7, the area is about 154."
+ },
+ {
+  "id": "s85",
+  "category": "Health",
+  "question": "How can I improve my posture?",
+  "answer": "Keep your screen at eye level, back supported, feet flat, take breaks every 30–45 minutes, and strengthen your core."
+ },
+ {
+  "id": "s86",
+  "category": "Health",
+  "question": "What are the benefits of regular exercise?",
+  "answer": "It improves heart health, mood, sleep, weight control and energy, and lowers the risk of many diseases."
+ },
+ {
+  "id": "s87",
+  "category": "Health",
+  "question": "How do I prevent eye strain from screens?",
+  "answer": "Follow the 20-20-20 rule: every 20 minutes look at something 20 feet away for 20 seconds. Adjust brightness and blink often."
+ },
+ {
+  "id": "s88",
+  "category": "Health",
+  "question": "What should I do for a minor burn?",
+  "answer": "Cool it under running water for 10–20 minutes, don't apply ice or butter, and cover loosely. See a doctor if it's large or severe."
+ },
+ {
+  "id": "s89",
+  "category": "Health",
+  "question": "What are common signs of dehydration?",
+  "answer": "Thirst, dark urine, dry mouth, headache, tiredness and dizziness. Drink fluids, and seek help if severe."
+ },
+ {
+  "id": "s90",
+  "category": "Health",
+  "question": "How can I boost my immunity naturally?",
+  "answer": "Eat varied fruits and vegetables, sleep well, exercise, manage stress, stay hydrated and keep vaccinations up to date."
+ },
+ {
+  "id": "s91",
+  "category": "Finance",
+  "question": "What is a mutual fund?",
+  "answer": "A mutual fund pools money from many investors to buy a diversified portfolio of stocks, bonds or other assets, managed by professionals."
+ },
+ {
+  "id": "s92",
+  "category": "Finance",
+  "question": "What is SIP?",
+  "answer": "A Systematic Investment Plan lets you invest a fixed amount regularly in a mutual fund, building discipline and averaging your cost."
+ },
+ {
+  "id": "s93",
+  "category": "Finance",
+  "question": "How do I build an emergency fund?",
+  "answer": "Aim for 3–6 months of living expenses in an easily accessible account, and add to it automatically each month."
+ },
+ {
+  "id": "s94",
+  "category": "Finance",
+  "question": "What is compound interest?",
+  "answer": "Compound interest is earned on both your original money and previously earned interest, so savings grow faster over time."
+ },
+ {
+  "id": "s95",
+  "category": "Finance",
+  "question": "What is the difference between a debit card and a credit card?",
+  "answer": "A debit card spends money directly from your bank account. A credit card lets you borrow up to a limit and repay later, with interest if unpaid."
+ },
+ {
+  "id": "s96",
+  "category": "Finance",
+  "question": "How do taxes work in simple terms?",
+  "answer": "Governments collect a share of income, spending and property to fund public services. Rates and rules depend on your country, so check official guidance."
+ },
+ {
+  "id": "s97",
+  "category": "Career",
+  "question": "How do I write a cover letter?",
+  "answer": "Keep it to one page: address the role, highlight 2–3 relevant achievements, show enthusiasm for the company and end with a clear call to action."
+ },
+ {
+  "id": "s98",
+  "category": "Career",
+  "question": "How do I negotiate a salary?",
+  "answer": "Research market rates, state your value with examples, give a range, stay polite and consider benefits as well as base pay."
+ },
+ {
+  "id": "s99",
+  "category": "Career",
+  "question": "How can I build a strong LinkedIn profile?",
+  "answer": "Use a clear photo and headline, write a concise summary, list projects and skills, and connect and engage with your industry."
+ },
+ {
+  "id": "s100",
+  "category": "Career",
+  "question": "What is the STAR method?",
+  "answer": "STAR structures interview answers: Situation, Task, Action, Result. It keeps your stories clear and focused on impact."
+ },
+ {
+  "id": "s101",
+  "category": "Career",
+  "question": "How do I switch careers?",
+  "answer": "Identify transferable skills, learn the gaps through courses or projects, network with people in the field and start with small steps or internships."
+ },
+ {
+  "id": "s102",
+  "category": "Career",
+  "question": "What is a good way to prepare for group discussions?",
+  "answer": "Read current affairs, practise structured speaking, listen carefully, make concise points and respect others' views."
+ },
+ {
+  "id": "s103",
+  "category": "Education",
+  "question": "How do I prepare for competitive exams?",
+  "answer": "Understand the syllabus, make a realistic timetable, practise previous papers, revise regularly and take mock tests."
+ },
+ {
+  "id": "s104",
+  "category": "Education",
+  "question": "What is the difference between a college and a university?",
+  "answer": "A university usually offers a wide range of degrees and research and can award its own degrees, while a college often focuses on undergraduate programs and may be affiliated to a university."
+ },
+ {
+  "id": "s105",
+  "category": "Education",
+  "question": "How do I write a good essay?",
+  "answer": "Plan an outline, write a clear thesis, support each paragraph with evidence, link ideas smoothly, and proofread."
+ },
+ {
+  "id": "s106",
+  "category": "Education",
+  "question": "How can I improve my memory?",
+  "answer": "Use spaced repetition, mnemonics, sleep well, exercise and teach what you learn. Break large topics into small chunks."
+ },
+ {
+  "id": "s107",
+  "category": "Education",
+  "question": "What is a scholarship and how do I apply?",
+  "answer": "A scholarship is financial aid that doesn't need repayment. Check eligibility, prepare documents and marks, and apply before the deadline on official portals."
+ },
+ {
+  "id": "s108",
+  "category": "Education",
+  "question": "How do I check my attendance percentage?",
+  "answer": "Open the Attendance section of your institution's portal to see subject-wise and overall attendance."
+ },
+ {
+  "id": "s109",
+  "category": "Education",
+  "question": "How can I contact my faculty?",
+  "answer": "Use the portal's messaging or contact section, official email, or visit during office hours."
+ },
+ {
+  "id": "s110",
+  "category": "Education",
+  "question": "Where can I find the exam timetable?",
+  "answer": "Check the Exams or Academic Calendar section of your institution's portal or the official notice board."
+ },
+ {
+  "id": "s111",
+  "category": "Travel",
+  "question": "How do I book a train or flight ticket?",
+  "answer": "Use the official airline, railway or trusted booking apps. Compare prices, book early, and check baggage and cancellation rules."
+ },
+ {
+  "id": "s112",
+  "category": "Travel",
+  "question": "What documents do I need for international travel?",
+  "answer": "Typically a valid passport, visa if required, tickets, accommodation proof, insurance and sometimes vaccination records. Check the destination's rules."
+ },
+ {
+  "id": "s113",
+  "category": "Travel",
+  "question": "How can I avoid jet lag?",
+  "answer": "Adjust your sleep gradually, stay hydrated, get daylight at your destination, and avoid heavy meals and too much caffeine."
+ },
+ {
+  "id": "s114",
+  "category": "Travel",
+  "question": "What is the best time to visit a hill station?",
+  "answer": "Usually spring and summer for pleasant weather, or after monsoon for greenery. Always check local conditions before going."
+ },
+ {
+  "id": "s115",
+  "category": "Productivity",
+  "question": "What is the Pomodoro technique?",
+  "answer": "Work for 25 minutes with full focus, take a 5-minute break, and after four rounds take a longer break of 15–30 minutes."
+ },
+ {
+  "id": "s116",
+  "category": "Productivity",
+  "question": "How do I stay focused while studying or working?",
+  "answer": "Silence notifications, set one clear goal, work in a tidy space, use timed sessions and take proper breaks."
+ },
+ {
+  "id": "s117",
+  "category": "Productivity",
+  "question": "How do I take better notes?",
+  "answer": "Write key ideas in your own words, use headings and bullet points, add examples, and review within 24 hours."
+ },
+ {
+  "id": "s118",
+  "category": "Productivity",
+  "question": "How do I set goals effectively?",
+  "answer": "Make them SMART: Specific, Measurable, Achievable, Relevant and Time-bound, then break them into weekly actions."
+ },
+ {
+  "id": "s119",
+  "category": "Lifestyle",
+  "question": "How can I make a good first impression?",
+  "answer": "Be punctual, smile, make eye contact, dress appropriately, listen actively and be genuine."
+ },
+ {
+  "id": "s120",
+  "category": "Lifestyle",
+  "question": "How do I make a cup of tea or coffee properly?",
+  "answer": "For tea, steep leaves in hot water for 3–5 minutes. For coffee, use fresh grounds with water just off the boil. Adjust to taste."
+ },
+ {
+  "id": "s121",
+  "category": "Lifestyle",
+  "question": "How do I deal with loneliness?",
+  "answer": "Reach out to friends or family, join clubs or classes, volunteer, spend time outdoors and consider talking to a counsellor if it persists."
+ },
+ {
+  "id": "s122",
+  "category": "Lifestyle",
+  "question": "How do I take care of a houseplant?",
+  "answer": "Give it suitable light, water only when the top soil is dry, ensure drainage, and feed occasionally during growth seasons."
+ },
+ {
+  "id": "s123",
+  "category": "Lifestyle",
+  "question": "How do I take care of a pet dog?",
+  "answer": "Provide a balanced diet, fresh water, daily exercise, regular vet visits and vaccinations, and plenty of attention and training."
+ },
+ {
+  "id": "s124",
+  "category": "Geography",
+  "question": "What is the capital of India?",
+  "answer": "The capital of India is New Delhi."
+ },
+ {
+  "id": "s125",
+  "category": "Geography",
+  "question": "What is the largest ocean?",
+  "answer": "The Pacific Ocean is the largest and deepest ocean, covering about a third of the Earth's surface."
+ },
+ {
+  "id": "s126",
+  "category": "Geography",
+  "question": "Which is the longest river in the world?",
+  "answer": "The Nile and the Amazon are the two contenders; the Nile is traditionally listed as longest (about 6,650 km), though measurements vary."
+ },
+ {
+  "id": "s127",
+  "category": "Geography",
+  "question": "How many continents are there?",
+  "answer": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia/Oceania."
+ },
+ {
+  "id": "s128",
+  "category": "History",
+  "question": "Who was Mahatma Gandhi?",
+  "answer": "Mahatma Gandhi led India's non-violent independence movement against British rule using satyagraha, and is called the Father of the Nation."
+ },
+ {
+  "id": "s129",
+  "category": "History",
+  "question": "What was the Industrial Revolution?",
+  "answer": "It was a period from the late 1700s when manufacturing shifted from hand production to machines and factories, beginning in Britain."
+ },
+ {
+  "id": "s130",
+  "category": "History",
+  "question": "When did India gain independence?",
+  "answer": "India gained independence from British rule on 15 August 1947."
+ },
+ {
+  "id": "s131",
+  "category": "Space",
+  "question": "How many planets are in the solar system?",
+  "answer": "There are eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune."
+ },
+ {
+  "id": "s132",
+  "category": "Space",
+  "question": "What is a black hole?",
+  "answer": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape once it crosses the event horizon."
+ },
+ {
+  "id": "s133",
+  "category": "Space",
+  "question": "What is the Moon's effect on Earth?",
+  "answer": "The Moon's gravity causes ocean tides and helps stabilize Earth's tilt, which keeps our climate relatively steady."
+ },
+ {
+  "id": "s134",
+  "category": "Sports",
+  "question": "How do I stay motivated in sports or fitness?",
+  "answer": "Set clear goals, track progress, train with a partner, vary your routine and celebrate small wins."
+ },
+ {
+  "id": "s135",
+  "category": "Sports",
+  "question": "How many players are there in a cricket team?",
+  "answer": "A cricket team has 11 players on the field."
+ },
+ {
+  "id": "s136",
+  "category": "Entertainment",
+  "question": "How do I find good books or movies to enjoy?",
+  "answer": "Check trusted review sites and ratings, ask friends, follow genres you like and use the recommendation features of streaming and library apps."
+ },
+ {
+  "id": "s137",
+  "category": "Language",
+  "question": "How can I improve my English?",
+  "answer": "Read daily, listen to podcasts, speak and write regularly, learn new words in context and get feedback."
+ },
+ {
+  "id": "s138",
+  "category": "Language",
+  "question": "How do I learn a new language quickly?",
+  "answer": "Practise daily, use spaced-repetition apps, listen and speak from day one, learn common phrases first and immerse yourself."
+ },
+ {
+  "id": "s139",
+  "category": "Business",
+  "question": "How do I start a small business?",
+  "answer": "Validate your idea, write a simple plan, check legal registration and licences, arrange funds and start small, then adjust using customer feedback."
+ },
+ {
+  "id": "s140",
+  "category": "Business",
+  "question": "What is a startup?",
+  "answer": "A startup is a young company built to develop a new product or service and grow quickly, often with innovative technology."
+ },
+ {
+  "id": "s141",
+  "category": "Business",
+  "question": "What is digital marketing?",
+  "answer": "Digital marketing promotes products online through search engines, social media, email, content and ads."
+ },
+ {
+  "id": "s142",
+  "category": "Shopping",
+  "question": "How can I shop safely online?",
+  "answer": "Use trusted sites, check reviews and return policy, prefer secure payment methods, avoid deals that look too good to be true, and never share OTPs."
+ },
+ {
+  "id": "s143",
+  "category": "Home",
+  "question": "How do I remove common stains from clothes?",
+  "answer": "Act quickly: blot (don't rub), rinse with cold water, use mild detergent, and check the fabric label before using stronger cleaners."
+ },
+ {
+  "id": "s144",
+  "category": "Relationships",
+  "question": "How do I handle a disagreement with a friend?",
+  "answer": "Stay calm, listen to their side, use \"I\" statements to explain your feelings, look for common ground and apologise when you're wrong."
+ },
+ {
+  "id": "s145",
+  "category": "Law & Civic",
+  "question": "How can I apply for a passport?",
+  "answer": "Apply on your country's official passport portal, fill the form, book an appointment, submit documents and attend verification. Check official guidance for current rules."
+ },
+ {
+  "id": "s146",
+  "category": "Law & Civic",
+  "question": "How do I report a cyber crime?",
+  "answer": "Collect screenshots and evidence, then report on your country's official cyber crime portal or helpline, and inform your bank immediately for financial fraud."
+ },
+ {
+  "id": "s147",
+  "category": "Support",
+  "question": "What should I do if my account is locked?",
+  "answer": "Wait for the lock period if mentioned, try the password-reset option, then contact the service's support team with proof of identity."
+ },
+ {
+  "id": "s148",
+  "category": "Support",
+  "question": "What should I do if the app or website is not working?",
+  "answer": "Check your internet, refresh or restart the app, clear cache, update it, try another device, and contact support if it continues."
+ }
+]
